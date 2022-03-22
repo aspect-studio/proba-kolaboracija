@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+img {
+	border: 3px solid tomato;
+	margin: 0 auto;
+	display: block;
+}
